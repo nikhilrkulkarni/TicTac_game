@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: TicTac-Game
+Version: 0.0.1
+Summary: Now you can enjoy the game of TicTac with CLI App!!!
+Home-page: https://github.com/nikhilrkulkarni/TicTac_game
+Author: Nikhil Kulkarni
+Author-email: nikhilkulkarni4013@gmail.com
+License: UNKNOWN
+Description: #TicTac Game
+        
+        Welcome to a 'TicTac Game'!! 
+        This is a small software package through which can play TicTac game
+        
+        # What does this 'TicTac game' do ?
+        
+        This software is written to enjoy the game of 'TicTac' on computer. Command line user interface will help you to play game
+        
+        # How to Use ?
+        
+        * On installation it will display the instructions on screen and you can enjoy the game !!!
+        
+        P.S. Please do visit requirements.txt prior execution of code
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
